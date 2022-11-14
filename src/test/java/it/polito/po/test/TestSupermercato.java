@@ -180,7 +180,7 @@ public class TestSupermercato extends TestCase {
 		
 		boolean corretto = false;
 		
-		if(giorniCoperti==18.0)
+		if(giorniCoperti==19.0)
 		{
 			System.out.println("\nCalcolo dei giorni coperti gestito in maniera corretta");
 			corretto = true;
